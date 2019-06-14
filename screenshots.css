@@ -1,0 +1,29 @@
+.headercontainer {
+  display: flex;
+  height: 591px;
+  width: 591px;
+  background-color: gray;
+}
+
+.messages {
+  color: #5fc9f8;
+}
+
+.contact {
+  color: #5fc9f8;
+}
+
+.senttext {
+  display: flex;
+  height: 40vh;
+  width: 60vh;
+  background-color: #5fc9f8;
+  color: white;
+}
+
+.recievedtext {
+  display: flex;
+  height: 40vh;
+  width: 60vh;
+  background-color: #8e8e93
+}
